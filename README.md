@@ -14,4 +14,4 @@ Download the workflow from releases.
 
 ## Limitations
 
-It does not do tree traversal. It just searches for `.git` folders directly under the specified directories
+It does not search directories recursively. It just searches folders directly under the specified directories.

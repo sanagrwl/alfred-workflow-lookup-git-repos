@@ -5,7 +5,7 @@ Download the workflow from releases.
 
 # Configuration
 1. Clone all the repos that you want to search in directory
-2. Specify the directory in workflow configuration. You can specify multiple directories by separating them with a comman(`,`).
+2. Specify the directory in workflow configuration. You can specify multiple directories by separating them with a comma(`,`). Eg: /Users/abc/bitbucket-repos, /Users/abc/github-repos
 
 ## Features
 
